@@ -1,5 +1,5 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name:LOGESH R                     </h3>
+<h3>Name:R LOGESH                    </h3>
 <h3>Register Number:212224020024                </h3>
 <H3>Aim:</H3>
 <p>
